@@ -1,2 +1,11 @@
 # decoding
-decoding for surface code
+
+## 内容简介
+主要内容，实现了一些利用噪声信息的surface code解码器，包括：
+
+* 基于测量模拟的相关噪声信息的MLD解码器，参考mld_decoding文件。
+
+## 后续工作
+
+* 实现逻辑计算的相关噪声信息的MLD解码器。
+* 对于相对于张量网络的MLD解码器的解码效果。
